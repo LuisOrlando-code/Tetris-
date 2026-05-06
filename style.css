@@ -1,0 +1,38 @@
+body {
+    background: #202028;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+    padding: 1rem 0;
+}
+
+#puntuacion {
+    margin-bottom: 0.5rem;
+}
+
+canvas {
+    border: solid 0.2em #fff;
+    height: 90vh;
+    display: block;
+    margin: 0 auto;
+}
+
+#controles {
+    font-size: 0.5em;
+    color: #aaa;
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+kbd {
+    background: #333;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 0.9em;
+}
