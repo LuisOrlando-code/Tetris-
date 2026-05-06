@@ -33,7 +33,7 @@ Las piezas salen aleatorias, no hay bolsa de 7 ni nada así de fancy, es complet
 HTML5 Canvas, CSS y JS nada más. Sin frameworks, sin dependencias, sin node_modules que pesen 300mb.
 
 ## Imagen
-![Imagen](./imagen/iagen.png)
+![Imagen](./imagen/imagen.png)
 
 # Pagina
 
